@@ -24,7 +24,7 @@ Mac OS requirement:
 
 Copy-Paste the following line in your terminal
 
-`curl https://raw.githubusercontent.com/dhilipsiva/dotfiles/master/install.sh | sh`
+`curl https://raw.githubusercontent.com/Bharathegede22/dotfiles/master/install.sh | sh`
 
 ## Updating
 
@@ -34,6 +34,6 @@ Just run the following command from your termianl
 
 Or if you prefer to use the latest update scripts, execute:
 
-`curl https://raw.githubusercontent.com/dhilipsiva/dotfiles/master/update.sh | sh`
+`curl https://raw.githubusercontent.com/Bharathegede22/dotfiles/master/update.sh | sh`
 
 That is it.

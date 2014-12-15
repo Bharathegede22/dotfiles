@@ -1,6 +1,6 @@
 [user]
-    name = dhilipsiva
-    email = dhilipsiva@gmail.com
+    name = Bharat Hegede
+    email = bharathegde22@gmail.com
 
 [credential]
     helper = osxkeychain
@@ -9,7 +9,7 @@
     autosetuprebase = always
 
 [github]
-    user = dhilipsiva
+    user = Bharathegede22
 
 [diff]
     tool = vimdiff
